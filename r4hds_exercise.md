@@ -1,6 +1,9 @@
 HDAT9700 Statistical Modelling II
 ================
 Mark Hanly
+14 Sep 2026
+
+Hi this is Raheel Siddiqui :)
 
 # Overview
 
@@ -127,7 +130,7 @@ A code chunk is introduced with three backticks, followed by {r}, and
 then closed with three backticks. For example:
 
 ```` markdown
-``` {r demo}
+```{r demo}
 
 2 + 2
 
