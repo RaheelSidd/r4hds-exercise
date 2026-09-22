@@ -2,6 +2,9 @@
 
 ## R for Health Data Science
 
+My key takeaway:
+USE THIS LINK https://r-graph-gallery.com/
+
 This GitHub repo contains tutorial and exercise materials for Chapter 1 of HDAT9700 Statistical Modelling II. The key material is in the R Markdown file `r4hds_exercise.Rmd`. You can view this file online by clicking the file above (or [here](r4hds_exercise.Rmd)), and similarly you can view the rendered version of the document `r4hds_exercise.md` (note the different extension) in the same way, by navigating to it above or by clicking [here](r4hds_exercise.md). 
 
 The first exercise is to clone this project to your local R Studio so that you can edit and run the code locally. Follow the steps below:
@@ -9,8 +12,6 @@ The first exercise is to clone this project to your local R Studio so that you c
 1. Click on the <span style="background-color:#238636; color:white; padding: 5px; border-radius: 5px">Code</span> button and copy-paste the **HTTPS** url to your clipboard.
 
 2. Use the repo url to create a new project in RStudio (see guided instructions if you have never done this before)
-
-
 
 
 ## Guided instructions to clone a repo from GitHub to RStudio
